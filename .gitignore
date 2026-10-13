@@ -3,3 +3,4 @@ data/patient_ID_deidentified.csv
 output/ATAC/*.rds
 output/ATAC/FA_P_FA_M_1day_all_regions_annotated.csv
 output/ATAC/DE_FA_M_1day_all_regions_annotated.csv
+scripts/rough_work.R
